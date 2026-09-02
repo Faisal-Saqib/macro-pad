@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/faisal-saqib/Project/macro-pad/gerberfiles/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -661,13 +661,17 @@
         "uuid": "1f82f4e0-4b98-43ff-bed8-da4485b98a70"
       }
     ],
-    "used_designators": "#PWR1-2,U1,SW1-9",
+    "used_designators": "D1-6,DS1,#PWR1-4,U1-3,SW1-9",
     "variants": []
   },
   "sheets": [
     [
       "1f82f4e0-4b98-43ff-bed8-da4485b98a70",
       "Root"
+    ],
+    [
+      "d5fa6ab9-7d1a-4c85-be46-6da63c3d5fe9",
+      "Keyswitch"
     ]
   ],
   "text_variables": {},
